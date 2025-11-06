@@ -1,0 +1,6 @@
+D:\Daniel Petrov 22405109\02.10.25\masiv\bin\Debug\masiv.exe.config
+D:\Daniel Petrov 22405109\02.10.25\masiv\bin\Debug\masiv.exe
+D:\Daniel Petrov 22405109\02.10.25\masiv\bin\Debug\masiv.pdb
+D:\Daniel Petrov 22405109\02.10.25\masiv\obj\Debug\masiv.csproj.CoreCompileInputs.cache
+D:\Daniel Petrov 22405109\02.10.25\masiv\obj\Debug\masiv.exe
+D:\Daniel Petrov 22405109\02.10.25\masiv\obj\Debug\masiv.pdb
