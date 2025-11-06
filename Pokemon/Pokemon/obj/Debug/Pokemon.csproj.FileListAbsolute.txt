@@ -1,0 +1,7 @@
+D:\Daniel Petrov 22405109\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+D:\Daniel Petrov 22405109\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+D:\Daniel Petrov 22405109\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+D:\Daniel Petrov 22405109\Pokemon\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+D:\Daniel Petrov 22405109\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+D:\Daniel Petrov 22405109\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+D:\Daniel Petrov 22405109\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
