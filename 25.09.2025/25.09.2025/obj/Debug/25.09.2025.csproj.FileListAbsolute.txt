@@ -1,0 +1,7 @@
+D:\Daniel Petrov 22405109\25.09.2025\25.09.2025\bin\Debug\25.09.2025.exe.config
+D:\Daniel Petrov 22405109\25.09.2025\25.09.2025\bin\Debug\25.09.2025.exe
+D:\Daniel Petrov 22405109\25.09.2025\25.09.2025\bin\Debug\25.09.2025.pdb
+D:\Daniel Petrov 22405109\25.09.2025\25.09.2025\obj\Debug\25.09.2025.csprojResolveAssemblyReference.cache
+D:\Daniel Petrov 22405109\25.09.2025\25.09.2025\obj\Debug\25.09.2025.csproj.CoreCompileInputs.cache
+D:\Daniel Petrov 22405109\25.09.2025\25.09.2025\obj\Debug\25.09.2025.exe
+D:\Daniel Petrov 22405109\25.09.2025\25.09.2025\obj\Debug\25.09.2025.pdb
