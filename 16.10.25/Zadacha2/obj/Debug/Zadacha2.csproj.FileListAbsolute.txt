@@ -1,0 +1,6 @@
+D:\Daniel Petrov 22405109\16.10.25\Zadacha2\bin\Debug\Zadacha2.exe.config
+D:\Daniel Petrov 22405109\16.10.25\Zadacha2\bin\Debug\Zadacha2.exe
+D:\Daniel Petrov 22405109\16.10.25\Zadacha2\bin\Debug\Zadacha2.pdb
+D:\Daniel Petrov 22405109\16.10.25\Zadacha2\obj\Debug\Zadacha2.csproj.CoreCompileInputs.cache
+D:\Daniel Petrov 22405109\16.10.25\Zadacha2\obj\Debug\Zadacha2.exe
+D:\Daniel Petrov 22405109\16.10.25\Zadacha2\obj\Debug\Zadacha2.pdb
