@@ -1,0 +1,7 @@
+D:\Daniel Petrov 22405109\11.12.2025\2ra zadacha\bin\Debug\2ra zadacha.exe.config
+D:\Daniel Petrov 22405109\11.12.2025\2ra zadacha\bin\Debug\2ra zadacha.exe
+D:\Daniel Petrov 22405109\11.12.2025\2ra zadacha\bin\Debug\2ra zadacha.pdb
+D:\Daniel Petrov 22405109\11.12.2025\2ra zadacha\obj\Debug\2ra zadacha.csprojResolveAssemblyReference.cache
+D:\Daniel Petrov 22405109\11.12.2025\2ra zadacha\obj\Debug\2ra zadacha.csproj.CoreCompileInputs.cache
+D:\Daniel Petrov 22405109\11.12.2025\2ra zadacha\obj\Debug\2ra zadacha.exe
+D:\Daniel Petrov 22405109\11.12.2025\2ra zadacha\obj\Debug\2ra zadacha.pdb
